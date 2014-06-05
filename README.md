@@ -5,6 +5,7 @@ jBootstrapPage
 目前jBootstrapPage最新版为V0.1，后续还有更多功能需要完善。
 
 demo演示地址: http://www.it175.cn/demo/jBootstrapPage/
+技术交流QQ群：162695864
 
 代码示例:
 ===============
